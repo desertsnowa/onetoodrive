@@ -27,7 +27,7 @@ div {
 .form input {
   font-family: "Roboto", sans-serif;
   outline: 0;
-  background:  #ffffff;
+  background:  #c6c2c2;
   width: 100%;
   border: 0;
   margin: 0 0 15px;
@@ -77,7 +77,7 @@ li {
   cursor: pointer;
 }
      h3 {
-       color: #ea503f;
+       color: #353232;
        font-family: Rockwell;
      }
 	  h4 {
@@ -93,10 +93,10 @@ h2 {
 }
 
 h3 {
-    text-align: right;
+    text-align: left;
 }
 h4 {
-    text-align: center;
+    text-align: right;
 }
 
 .form button:hover,.form button:active,.form button:focus {
